@@ -1,3 +1,18 @@
+# Book With Me
+It is created with Angular, NodeJS, Express and MongoDB. It can Book Rentals,Create Rentals, Delete Rentals and Update Rentals. It has Login, Register functionality and User Dashboard.
+
+# Initialization
+Create a dev.js file in config with MongoDB URI.
+Edit the map api key in Map Component.
+# Running
+You can run the Angular server by running :
+```
+npm run start
+```
+and along with it run the node server as well:
+```
+node server
+```
 # AngularStarter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
