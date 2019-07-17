@@ -13,6 +13,7 @@ and along with it run the node server as well:
 ```
 node server
 ```
+then visit localhost:4200
 # AngularStarter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
