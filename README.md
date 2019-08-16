@@ -1,7 +1,7 @@
 # Book With Me
 It is created with Angular, NodeJS, Express and MongoDB. It can Book Rentals,Create Rentals, Delete Rentals and Update Rentals. It has Login, Register functionality and User Dashboard.
 
-![Screenshot](img.png)
+![Image](https://github.com/akash07marwah/Book-With-Me-Angular-Node-Website/blob/master/img.jpg)
 
 # Initialization
 Create a dev.js file in config with MongoDB URI.
